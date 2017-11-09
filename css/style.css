@@ -9,29 +9,29 @@ img {
 	text-align: center;
 }
 
-.container {
-	grid-template-columns: 30% 
-}
-
 .yellow {
+	max-width: 30%;
 	border-color: lightblue;
 	border-style: solid;
 	border-width: 1px; 
 }
 
 .red {
+	max-width: 30%;
 	border-color: lightblue;
 	border-style: solid;
 	border-width: 1px; 
 }
 
 .blue {
+	max-width: 30%;
 	border-color: lightblue;
 	border-style: solid;
 	border-width: 1px; 
 }
 
 .pink {
+	max-width: 30%;
 	border-color: lightblue;
 	border-style: solid;
 	border-width: 1px; 
