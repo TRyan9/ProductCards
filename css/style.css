@@ -10,6 +10,7 @@ img {
 }
 
 .yellow {
+	box-sizing: border-box;
 	max-width: 30%;
 	border-color: lightblue;
 	border-style: solid;
@@ -17,6 +18,7 @@ img {
 }
 
 .red {
+	box-sizing: border-box;
 	max-width: 30%;
 	border-color: lightblue;
 	border-style: solid;
@@ -24,6 +26,7 @@ img {
 }
 
 .blue {
+	box-sizing: border-box;
 	max-width: 30%;
 	border-color: lightblue;
 	border-style: solid;
@@ -31,6 +34,7 @@ img {
 }
 
 .pink {
+	box-sizing: border-box;
 	max-width: 30%;
 	border-color: lightblue;
 	border-style: solid;
