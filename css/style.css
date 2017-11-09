@@ -1,0 +1,56 @@
+h2 {
+	border-width: 1px;
+	border-style: dotted;
+	border-color: lightgray; 
+	text-align: center;
+}
+
+img {
+	text-align: center;
+}
+
+.yellow {
+	width: 30%;
+	border-color: lightblue;
+	border-style: solid;
+	border-width: 1px; 
+}
+
+.red {
+	width: 30%;
+	border-color: lightblue;
+	border-style: solid;
+	border-width: 1px; 
+}
+
+.blue {
+	width: 30%;
+	border-color: lightblue;
+	border-style: solid;
+	border-width: 1px; 
+}
+
+.pink {
+	width: 30%;
+	border-color: lightblue;
+	border-style: solid;
+	border-width: 1px; 
+}
+
+.description {
+	text-align: justify;
+}
+
+.pricing {
+	font-weight: bold;
+}
+
+.specifications {
+	font-weight: bold;
+}
+
+.product {
+	background-color: darkgray;
+	color: yellow;
+	width: 100%; 
+}
