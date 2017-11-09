@@ -11,6 +11,10 @@ img {
 
 article {
 	width: 30%;
+	box-sizing: border-box;
+	border-style: solid;
+	border-width: 1px; 
+	border-color: lightblue;
 }
 
 .yellow {
