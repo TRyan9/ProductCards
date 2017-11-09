@@ -9,29 +9,29 @@ img {
 	text-align: center;
 }
 
+.container {
+	grid-template-columns: 30% 
+}
+
 .yellow {
-	grid-template-rows: 30%;
 	border-color: lightblue;
 	border-style: solid;
 	border-width: 1px; 
 }
 
 .red {
-	width: 30%;
 	border-color: lightblue;
 	border-style: solid;
 	border-width: 1px; 
 }
 
 .blue {
-	width: 30%;
 	border-color: lightblue;
 	border-style: solid;
 	border-width: 1px; 
 }
 
 .pink {
-	width: 30%;
 	border-color: lightblue;
 	border-style: solid;
 	border-width: 1px; 
