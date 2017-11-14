@@ -1,0 +1,43 @@
+h2 {
+	border-width: 1px;
+	border-style: dotted;
+	border-color: lightgray; 
+	text-align: center;
+}
+
+img {
+	max-width: 30%;
+	display: block;
+	margin: 0 auto;
+}
+
+article { 
+	display: inline-grid;
+	width: 30%;
+	margin: 5px;
+	box-sizing: border-box;
+	border-style: solid;
+	border-width: 1px; 
+	border-color: lightblue;
+}
+
+.Description {
+	text-align: justify;
+	font-size: small;
+}
+
+.Pricing {
+	font-weight: bold;
+	font-size: small;
+}
+
+.Specifications {
+	font-weight: bold;
+	font-size: small;
+}
+
+.Product {
+	background-color: darkgray;
+	color: yellow;
+	width: 100%; 
+}
