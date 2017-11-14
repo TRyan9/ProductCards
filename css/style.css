@@ -6,58 +6,37 @@ h2 {
 }
 
 img {
-	text-align: center;
+	max-width: 30%;
+	display: block;
+	margin: 0 auto;
 }
 
-article {
+article { 
+	display: inline-grid;
 	width: 30%;
+	margin: 5px;
 	box-sizing: border-box;
 	border-style: solid;
 	border-width: 1px; 
 	border-color: lightblue;
 }
 
-.yellow {
-	max-width: 30%;
-	border-color: lightblue;
-	border-style: solid;
-	border-width: 1px; 
-}
-
-.red {
-	max-width: 30%;
-	border-color: lightblue;
-	border-style: solid;
-	border-width: 1px; 
-}
-
-.blue {
-	max-width: 30%;
-	border-color: lightblue;
-	border-style: solid;
-	border-width: 1px; 
-}
-
-.pink {
-	max-width: 30%;
-	border-color: lightblue;
-	border-style: solid;
-	border-width: 1px; 
-}
-
-.description {
+.Description {
 	text-align: justify;
+	font-size: small;
 }
 
-.pricing {
+.Pricing {
 	font-weight: bold;
+	font-size: small;
 }
 
-.specifications {
+.Specifications {
 	font-weight: bold;
+	font-size: small;
 }
 
-.product {
+.Product {
 	background-color: darkgray;
 	color: yellow;
 	width: 100%; 
